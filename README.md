@@ -9,7 +9,7 @@ Interactive dashboard for customer LTV, subscription and activity analysis.
 - Interactive filters
 
 ## Demo
-[![Open in Streamlit]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/yourname/reponame/app.py](https://approvalmaxtesttask.streamlit.app))
+[![Open in Streamlit]([[https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/yourname/reponame/app.py](https://approvalmaxtesttask.streamlit.app)](https://approvalmaxtesttask.streamlit.app/))
 
 ## Installation
 ```bash
